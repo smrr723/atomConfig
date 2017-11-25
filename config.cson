@@ -1,0 +1,27 @@
+"*":
+  "color-picker":
+    preferredFormat: "HEX"
+  core:
+    debugLSP: true
+    disabledPackages: [
+      "browser-plus"
+      "autosave-onchange"
+      "autoclose-html"
+    ]
+    telemetryConsent: "limited"
+  editor:
+    fontSize: 11
+    showIndentGuide: true
+    showInvisibles: true
+    softWrap: true
+    tabLength: 3
+  "exception-reporting":
+    userId: "bdf7ac93-6ca0-4af1-a31e-e4d130c24267"
+  minimap:
+    plugins:
+      "highlight-selected": true
+      "highlight-selectedDecorationsZIndex": 0
+      pigments: true
+      pigmentsDecorationsZIndex: 0
+  welcome:
+    showOnStartup: false
